@@ -44,6 +44,7 @@ data/interim/*
 
 # Serialized models and large caches
 *.pkl
+!models/*.pkl
 *.joblib
 *.h5
 *.pt
